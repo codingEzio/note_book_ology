@@ -22,6 +22,7 @@
 ### Note 
 - samples are not necessarily good representations of the populations from which they were selected 
 - the research (must) be able to determine how well the results from the sample ***generalize*** to the larger population
+- Here’s two examples: ![1st](./img/001_cp1_crimegraph.jpg)  ![2nd](./img/002_cp1_crimegraph.jpg)
 
 ### [Descriptive / Inferential] statistics  
 - Descriptive statistics apply only to the members of a sample or population from which data have been collected.
@@ -94,3 +95,8 @@
     - usually, these scores are **arranged in order** from min->max  and they *can be* presented graphically.
 - advice about making *graph*
     - keep in mind that the purpose of the graph is to make the data ***easy to understand/see*** (if not, then it’s not that good)
+
+### Three things we’ve missed 
+- Chi-square distributions 
+- F distributions 
+- t distributions 
