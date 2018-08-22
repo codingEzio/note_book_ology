@@ -1,9 +1,3 @@
-| 標題 | 作者 | 页数 | 出版時間 | 版本 | 
-| :---: | :---: | :---: | :---: | :---: | 
-| *Statistics in Plain English* | Timothy C. Urdan | 372 | *2011* | 3rd | 
-
---------- 
-
 # Foreword
 - 当大量数据汇总起来，其将很自然地失去那些个体化的数据。
     > i.e. <q>researchers generally use statistics to make ***general*** statements about a population</q> .
