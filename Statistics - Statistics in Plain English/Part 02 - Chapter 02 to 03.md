@@ -38,7 +38,7 @@
 - If the avg of the distribution is 10, and there’s a val is 12. 
     > Then we called the *deviation* is **2**.
 - The formula (for **sample**)
-    > ![ ](./img/005_cp3_sample_stddnv.jpg)
+    > ![ ](./img/005_cp3_sample_stddev.jpg)
 - About the formula 
     - Squared deviation is *variance* (if being squared root => stddev).
     - If what u want is the *population*, ya need to change the *mean* and the *n-1* to *N*.
