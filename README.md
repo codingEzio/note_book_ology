@@ -3,5 +3,6 @@
 - 部分领域 (e.g. 社会学) 的笔记 将暂存其他 repo，当超过 2 本以上 转至此 repo
 
 ### Books for now 
+- Calculus Essentials for Dummies
 - Statistics in Plain English 
 - 爱上统计学 
