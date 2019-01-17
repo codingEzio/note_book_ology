@@ -19,12 +19,12 @@
 
 ### Foreword 
 - From *chapter 02*, we cannot get enough info by using the methods from it.
-- We’re gonna need more powerful stuff!
+- We need a much powerful weapon!
 
 ### Range 
 - Simply put, it equals *max - min*. 
 - And there’s an ***interquartile range*** (aka *IQR*) ![IQR](./img/004_cp3_interquartilerange.jpg)
-    - Hey, the ***Boxplot*** is just for it!
+    - Well, the ***Boxplot*** is just for it!
 
 ### Variance 
 - As a “*foreplay*” of the following calculations.
@@ -37,7 +37,7 @@
     - For all differences, that’s **standard** *deviation*. (avg difference)
 - If the avg of the distribution is 10, and there’s a val is 12. 
     > Then we called the *deviation* is **2**.
-- The formula (for **sample**)
+- Here’s the formula (for **sample**)
     > ![ ](./img/005_cp3_sample_stddev.jpg)
 - About the formula 
     - Squared deviation is *variance* (if being squared root => stddev).
