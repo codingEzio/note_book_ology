@@ -1,8 +1,9 @@
-### Info
-- 此 repo 用于存放 **特定专业领域** 的学习笔记
-- 部分领域 (e.g. 社会学) 的笔记 将暂存其他 repo，当超过 2 本以上 转至此 repo
+### Introduction
+- 此 Repo 用于存放 **特定领域**的筆記 | 同一領域超過兩本 將會立即被轉入此 repo
+- 于 *社会学 <small>(sociology)</small>* 的笔记 其将暂被置於 repo ```note_book_nontech``` 里
 
-### Books for now 
-- Calculus Essentials for Dummies
-- Statistics in Plain English 
-- 爱上统计学 
+### Full name for these books 
+- *Sets, Logic and Maths for Computing*
+- *Calculus Essentials for Dummies*
+- *Statistics in Plain English*
+- *爱上统计学*
